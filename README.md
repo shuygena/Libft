@@ -1,2 +1,19 @@
 # Libft
-Primary library in C
+
+## Requirements 
+gcc  
+make  
+
+## Download & Compile
+Clone repository:
+```
+git clone https://github.com/shuygena/Libft libft
+```
+Go to directory:
+```
+cd libft  
+```
+For compile programm run:
+```
+make
+```

@@ -13,7 +13,7 @@ Go to directory:
 ```
 cd libft  
 ```
-For compile programm run:
+For compile program run:
 ```
 make
 ```
